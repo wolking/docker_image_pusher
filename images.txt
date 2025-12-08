@@ -1,4 +1,5 @@
-snowdreamtech/frpc:0.65.0
+node:18-alpine
+#snowdreamtech/frpc:0.65.0
 #snowdreamtech/frps:0.65.0
 #nginx
 #mysql:8.4.7
