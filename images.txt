@@ -1,4 +1,5 @@
-node:18-alpine
+1panel/openresty:1.21.4.3-3-3-focal
+#node:18-alpine
 #snowdreamtech/frpc:0.65.0
 #snowdreamtech/frps:0.65.0
 #nginx
